@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Call from heaven to Gods Elisha's to mourn and lament when God takes away His Elijah's, either by a natural or by a civil death.</title>
+         </titleStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32214</idno><idno type="EEBO-CITATION">7916383</idno>
+  <idno type="VID">40437</idno>
+  <idno type="EEBO-PROQUEST">2264215170</idno>
+  
+            <idno type="STC">Wing C296</idno>
+            <idno type="STC">ESTC R23881</idno>
+            <idno type="OCLC">07916383</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A32214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1200:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Call from heaven to Gods Elisha's to mourn and lament when God takes away His Elijah's, either by a natural or by a civil death.</title>
+               </titleStmt>
+               <extent>p. 26-27, 1-30.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Kings, 2nd, II, 12 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40437:1"/>
+            <pb facs="tcp:40437:1"/>
+            <p>A Call from Heaven TO GODS ELISHA'S, To MOURN and LAMENT, When God takes away his <hi>Elijah's,</hi> either by a natural, or by a civil death.</p>
+            <q>
+               <bibl>
+                  <hi>Isaiah, 57.1.</hi>
+               </bibl>
+               <p>The Righteous perisheth, and no man layeth it to heart, and merciful men are taken away, none considering, that the righteous are taken away from the evil to come</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40437:2"/>
+            <pb n="26" facs="tcp:40437:2"/>
+            <head>To the Christian Reader.</head>
+            <p>
+               <hi>I</hi> Know many excellent <hi>Funeral</hi> Sermons
+<note n="a" place="margin">
+                  <hi>Ca.</hi> Fitz. Geffery. T. Hooker, O. Sedgwick, J. Collins. J. Gauden. S. Patrick, <hi>&amp;</hi>
+               </note> upon this <hi>Text</hi> are in Print, but I know not one that hath been <hi>printed</hi> upon such an <hi>occasion:</hi> yea, I have not met with any one, that either upon <hi>this</hi> Scripture, or any <hi>other,</hi> hath <hi>ex pro<g ref="char:EOLhyphen"/>fesso</hi> taken into consideration the <hi>civil</hi> deaths of God's <hi>Eli<g ref="char:EOLhyphen"/>jah's;</hi> and yet the civil deaths of <hi>some</hi> of them hath hap<g ref="char:EOLhyphen"/>ned in <hi>most</hi> ages, and even of <hi>most</hi> of them may hereafter happen in <hi>ours,</hi> if the Prophesie concerning the slaying of the witnesses
+<note n="b" place="margin">Rev. 11.7.</note> be not yet fulfilled. However, if here were said nothing but what hath been already said in a <hi>various</hi> method, the <hi>variety</hi> of the method might make the <hi>repe<g ref="char:EOLhyphen"/>tition grateful</hi>
+               <note n="c" place="margin">The things I present, are <hi>nove dicta. etsi non nova, Observations</hi> not new, yet in <hi>a new dress;</hi> as <hi>new</hi> things are <hi>acceptable,</hi> so among them nothing more then new <hi>clothes.</hi> The old <hi>saing, nil dictum, quod non dictum prius.</hi> pro<g ref="char:EOLhyphen"/>veth all wri<g ref="char:EOLhyphen"/>tings to be but <hi>various descant</hi> on <hi>plainer rudi<g ref="char:EOLhyphen"/>ments;</hi> or if you will, but the <hi>A<g ref="char:EOLhyphen"/>nagram</hi> of the <hi>Alphabet,</hi> and <hi>transposition</hi> of mens various <hi>collections</hi> from.</note>; Yea, I am sure I am doing the work of God; I do but repeat his voice, and <hi>once</hi> more sound his <hi>Trumpet,</hi> which hath been <hi>too too oft</hi> sounded <hi>in vain.</hi> It is true as to all ages, <hi>the righteous perisheth, and no man layes it to heart
+<note n="d" place="margin">Isa 57.1. <hi>Men</hi> and <hi>Books.</hi> See Dr. <hi>Whitlocks</hi> preface to <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. p. 2.</note>: i.e.</hi> Either none at all of the sensual beasts, spoken of in the former chapter, or very few of any sort in comparison of the great number of those of all sorts that do not: very few indeed do lay it <hi>upon their hearts</hi> (as it is in the Hebrew) that it may soak into them, so as to be suitably affected and afflicted. This will be also true when Christs witnesses shall be slain <hi>civilly
+<note n="e" place="margin">Rev. 11.10.</note>. They that dwell on the earth, i. e.</hi> all those that are of an earthly and not of an heavenly spirit, <hi>shall rejoice over them,</hi> i. e. they will be glad even to think of their slaughter, <hi>and make merry;</hi> i.e. either they will make feasts in token of their joy, or they will be as joyful as those that do make feasts for joy; yea, <hi>they will send gifts, i. e.</hi> they will do whatever they can to make others to rejoice with them at their death. Seeing the <hi>same disease</hi> remains, why may not the <hi>same remedies</hi> be used? <hi>An ancient
+<note n="f" place="margin">
+                     <hi>Ang. l.</hi> 1. <hi>de <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> cap. 3.</note> wisheth that in places infected with Heresie all men would write, that have any faculty in writing, though it be but the same things in other words, to the end
+<pb n="30" facs="tcp:40437:3"/>that all sorts of people among many books might light upon some,</hi> &amp;c. Is there not the same reason for the same wish, when any other soul destroying distemper is epidemical? Were there never so great store of preservatives against a raging pestilence, we would subscribe to the proverb, <hi>Store is no sore;</hi> But alas! here is no store at all. Such a discourse cannot therefore be looked upon as <hi>needless</hi> and <hi>unseasonable</hi> at <hi>any time,</hi> though at <hi>sometimes</hi> it is more then ordinarily necessary and seasonable, as is evident by its <hi>errand.</hi> Here God's <hi>Elijah's</hi> are not called upon (at any time) to call for <hi>fire</hi> upon others <hi>heads;</hi> but (at sometimes especially) for <hi>spings of water</hi> in their own <hi>hearts:</hi> they are not called upon (at any time) to <hi>smite</hi> others with the <hi>tongue,</hi> or <hi>hand,</hi> but (at some times especially) to <hi>smite</hi> on their own thighs: They are not called (at any time) to <hi>draw blood,</hi> or make places <hi>Acheldama's,</hi> but (at some times especially) to <hi>draw water,</hi> and pour it out before the Lord, and make places <hi>Bo<g ref="char:EOLhyphen"/>chims:</hi> In a word, they are not called (at any time) to ga<g ref="char:EOLhyphen"/>ther themselves into <hi>Conventicles</hi> (properly so called) to <hi>re<g ref="char:EOLhyphen"/>venge</hi> themselves upon the <hi>instruments</hi> of their <hi>miseries:</hi> They are onely called to gather themselves into <hi>lawful Assem<g ref="char:EOLhyphen"/>blies</hi> to <hi>humble</hi> themselves for <hi>sinning</hi> away their <hi>Elijah's,</hi> when they are indeed taken away either by a <hi>natural,</hi> or a <hi>civil</hi> death. The Lord be pleased to give thee and me the <hi>hearing ear,</hi> and the <hi>obedient spirit</hi> to this <hi>Call from Heaven. Amen, Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:40437:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 King. 2.12.</hi>
+                  </bibl>
+                  <p>And Elishasaw it, and he cried, my Father, my Father; the Chariot of Israel, and the horsmen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N these words we have,
+<list>
+                  <item>1. <hi>A double cause,</hi>
+                  </item>
+                  <item>2. <hi>A double effect.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>A double cause;</hi>
+               <list>
+                  <item>1. Elisha's <hi>Vision,</hi>
+                  </item>
+                  <item>2. <hi>The cessation of the Vision.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Elisha's <hi>Vision, and</hi> Elisha <hi>saw it.</hi> Here observe,
+<list>
+                  <item>1. The <hi>Object.</hi>
+                  </item>
+                  <item>2. The <hi>Act.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>The Object.</hi> In the verse before the Text we are told, that <hi>Elijah</hi> was taken away (not by a natural death, but) <hi>by a fiery Chariot, and Horses of fire</hi>
+               <note n="a" place="margin">Mr. <hi>Jackson</hi> up<g ref="char:EOLhyphen"/>on 2 <hi>King.</hi> 2.12.</note>; by the holy An<g ref="char:EOLhyphen"/>gels appearing in such a likeness: this was the object of <hi>Eli<g ref="char:EOLhyphen"/>sha's</hi> Vision, he saw <hi>Elijah</hi> taken up towards Heaven in a fiery Chariot with fiery Horses. Herein God suited <hi>Eli<g ref="char:EOLhyphen"/>jah's death</hi> to his <hi>life;</hi> his life <hi>burnt</hi> with <hi>zeal</hi> for the <hi>pure worship</hi> of God, and he was translated into <hi>Heaven</hi> in <hi>a fiery</hi>
+               <pb n="2" facs="tcp:40437:4"/>Chariot, with horses of <hi>fire;</hi> his <hi>zeal</hi> for God made him <hi>hated</hi> of all sorts of <hi>men:</hi> but <hi>God</hi> did not onely set a <hi>mira<g ref="char:EOLhyphen"/>culous mark</hi> of his <hi>favour</hi> upon him, whilest he <hi>lived</hi> per<g ref="char:EOLhyphen"/>secuted to the death, but sent for him to <hi>heaven</hi> in extraor<g ref="char:EOLhyphen"/>dinary <hi>pomp,</hi> causing a troop of the <hi>heavenly host,</hi> his own immediate <hi>guard,</hi> to be his <hi>Conveys,</hi> to declare him to all ages, to be <hi>a man high in his favour:</hi> But so much for the object, or what <hi>Elisha</hi> saw.</p>
+            <p n="2">2. The <hi>act</hi> upon this object is here emphatically set down, <hi>And Elisha saw it,</hi> or was seeing it, according to the He<g ref="char:EOLhyphen"/>brew. Hereby we are not onely assured of the truth of the transaction, but <hi>Elisha</hi> was assured of a double portion of <hi>Elijah's</hi> spirit; for this was the onely condition thereof, <hi>If thou shalt see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so</hi>
+               <note n="a" place="margin">2 King. 2.10.</note>. But so much for the first cause mentioned in the Text, <hi>Elisha's Vision.</hi> There is another, and that is,</p>
+            <p n="2">2. <hi>The cessation of the vision, and he saw him no more.</hi> God withdrew <hi>Elijah</hi> to a state invisible. <hi>Elisha</hi> saw <hi>E<g ref="char:EOLhyphen"/>lijah</hi> taken away, but after his ascention he saw him no more. Thus we see the double cause mentioned in the Text. There is also.</p>
+            <p n="2">2. <hi>A double effect</hi> mentioned in the Text; each cause hath <hi>its</hi> effect set down: the <hi>effect</hi> of <hi>Elisha's vision</hi> is <hi>E<g ref="char:EOLhyphen"/>lisha's Cry;</hi> the <hi>effect</hi> oft <hi>the cessation of the vision</hi> is <hi>Eli<g ref="char:EOLhyphen"/>shah's taking hold of his own clothes, and rending them into two pieces: Elisha's</hi> crying and rending his clothes, shew <hi>how</hi> he was affected, when he saw <hi>Elijah</hi> taken quite out of his sight: the matter of his cry, or what he said, shews <hi>why</hi> he was so affected thereat. Here therefore I shall con<g ref="char:EOLhyphen"/>sider two things.
+<list>
+                  <item>1. <hi>How Elishah was affected.</hi>
+                  </item>
+                  <item>2. <hi>Why he was so affected with Elijah's being taken away.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>How he was affected.</hi> He was affected with very much grief of heart. This is evident in that,</p>
+            <p n="1">
+               <pb n="3" facs="tcp:40437:4"/> 1. It is said, <hi>he cried out</hi>
+               <note n="a" place="margin">Et ecce ulu Ians. <hi>Int. Lat. Vers. Syr. in Bib. Poly<g ref="char:EOLhyphen"/>glot.</hi> Clamavit con<g ref="char:EOLhyphen"/>stitutus in tor<g ref="char:EOLhyphen"/>mento, vel op<g ref="char:EOLhyphen"/>pressione, cla<g ref="char:EOLhyphen"/>mavit voce que<g ref="char:EOLhyphen"/>rulâ <hi>Avenar.</hi>
+               </note>; the word signifies the cry<g ref="char:EOLhyphen"/>ing of one in misery; <hi>a complaining cry.</hi> It is used to ex<g ref="char:EOLhyphen"/>press the cry of the poor under oppression, <hi>Ezod.</hi> 22.23. Here the word is in the second Conjugation, and <hi>Gramma<g ref="char:EOLhyphen"/>rians</hi> tells us that addeth to the signification, <hi>vehementer cre<g ref="char:EOLhyphen"/>bro.</hi> He <hi>cried</hi> as one afflicted <hi>vehemently,</hi> and <hi>frequently.</hi>
+            </p>
+            <p n="2">2. It is said (according to <hi>Junius</hi> and <hi>Tremelius</hi>
+               <note n="b" place="margin">Quod <hi>Elisha</hi> videns, ipse cla<g ref="char:EOLhyphen"/>mavit, &amp; donec non viderat c: um amplius.</note>) <hi>he cried until he saw him no more.</hi>
+            </p>
+            <p n="3">3. It is said, he thus cried, <hi>my Father, my Father:</hi> now these words are expressions of sorrow and lamentation, as appears by <hi>Joash</hi> his weeping over this <hi>Elisha,</hi> and saying these very words, <hi>O my father, my father, &amp;c</hi>
+               <note n="c" place="margin">2 King. 13.14.</note>. and by Gods saying, That <hi>there should be no lamentation for Je<g ref="char:EOLhyphen"/>hoiakim, saying, Ah my brother, or Ah Lord,</hi> &amp;c
+<note n="d" place="margin">Jer. 22.11.</note>.</p>
+            <p n="4">4. The words are doubled, <hi>My father, my father:</hi> Thus <hi>David</hi> express'd the greatness of his grief for the death of <hi>Absalom
+<note n="e" place="margin">2 Sam. 18.<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note>; The king was much moved, and went up to the chamber over the gate, and wept, and as he went, thus he said, O my son Absalom, my son, my son Absalom: would God I had died for thee, O Absalom, my son, my son.</hi> It is not alway true, that <hi>the greatest grief speaketh least</hi>
+               <note n="f" place="margin">Curae leves lo<g ref="char:EOLhyphen"/>quuntur, ingen<g ref="char:EOLhyphen"/>tes stupent.</note>; some<g ref="char:EOLhyphen"/>times (like some <hi>Eccho's) it doubleth,</hi> yea, <hi>trebleth</hi> the word.</p>
+            <p n="5">5. It is said, <hi>He rent his own clothes in two pieces.</hi> This was an usual ceremony among the Jews, to express sorrow of heart, even the rending of their hearts, and the wounds which sorrow made on their souls
+<note n="g" place="margin">Vt dolorl suo satisfaceret. <hi>Sanct. in locum.</hi>
+               </note>. All these particulars shew that <hi>Elisha</hi> was affected with very much grief for the loss of <hi>Elijah.</hi> I come now to consider,</p>
+            <p n="2">2. <hi>Why he was thus affected.</hi> In the emphatical matter of <hi>Elisha's</hi> cry, we have implied, if not exprest, two sorts of <hi>causes</hi> of his sorrow:
+<list>
+                  <item>1. <hi>Outward,</hi>
+                  </item>
+                  <item>2. <hi>Inward.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>external</hi> causes were his own <hi>particular</hi> losse, and the <hi>publick</hi> loss.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:40437:5"/> 1. <hi>His own particular loss:</hi> The loss of <hi>Elijah</hi> was unto <hi>Elisha,</hi> as the loss of a dear <hi>father</hi> to a loving <hi>child. My father, my father: Elijah</hi> was not father to <hi>Elisha</hi> by <hi>na<g ref="char:EOLhyphen"/>ture,</hi> but by a surer bond, even by <hi>grace. Elijah</hi> having no son, <hi>adopted</hi> godly <hi>Elisha</hi> for his son, made him his heir, and bequeathed unto him a spiritual <hi>legacy,</hi> even the inhe<g ref="char:EOLhyphen"/>ritance of his spirit doubled upon him; and therefore <hi>Eli<g ref="char:EOLhyphen"/>shah's</hi> loss was greater then if he had lost a natural Father. <hi>Kindred by blood is nothing so near and dear as that by grace; Elijah</hi> was not onely as <hi>a Father,</hi> but as <hi>a double Father</hi> to <hi>Elisha,</hi> and therefore the word is ingeminated, <hi>My fa<g ref="char:EOLhyphen"/>ther, my father, q. d.</hi> O my heart is even broke, and would you know the reason? why, I have lost <hi>a Father,</hi> I have lost <hi>such a Father,</hi> I have lost <hi>a double Father,</hi> I have lost <hi>my Father. Elijah</hi> had not onely adopted <hi>Elisha</hi> for his spiritual son, but he was his <hi>Master</hi>
+               <note n="a" place="margin">
+                  <hi>Naaman's</hi> ser<g ref="char:EOLhyphen"/>vant gives the title of Father to his Master, 2 <hi>King.</hi> 5.13.</note> and <hi>Teacher</hi>
+               <note n="b" place="margin">It was com<g ref="char:EOLhyphen"/>mon among the Jews to give the title of Fathers to their Masters and Teachers. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in 1 <hi>Pet.</hi> 1.18. signifies what their Doctors and Teachers delivered to them. <hi>See Mr.</hi> Patrick's <hi>Serm. at the Fun. of Mr.</hi> J. Smith. <hi>at the end of his Sel. Disc.</hi> p. 488.</note>; yea, he was his <hi>Fatherly Master;</hi> he taught him with such fatherly care and affection, as if <hi>Elisha</hi> had been his <hi>son</hi> as well as his <hi>scholar.</hi> This was one <hi>cause</hi> of <hi>Elisha's</hi> sorrow, the loss of such a <hi>Lord, Master,</hi> and <hi>Father;</hi> The o<g ref="char:EOLhyphen"/>ther external <hi>cause</hi> was,</p>
+            <p n="2">2. <hi>The Publick loss. Elisha</hi> begins with his own pecu<g ref="char:EOLhyphen"/>liar loss, but he doth not end there: It's true in publick ca<g ref="char:EOLhyphen"/>lamities we may lawfully lament our peculiar afflictions, as <hi>Elisha</hi> here, and <hi>Jeremy</hi> in the general desolation of <hi>Israel</hi> crieth out, <hi>I am the man that have seen affliction,</hi> &amp;c
+<note n="c" place="margin">Lam. 3.1.</note>. but then is <hi>sorrow</hi> worth the <hi>doubling</hi> when it is not onely for <hi>particular,</hi> but <hi>publick</hi> losses. <hi>Elisha</hi> did not onely lose his Father; but <hi>Israel</hi> lost their <hi>conduct</hi> to <hi>heaven,</hi> and their <hi>strength</hi> on <hi>earth: My father, my father; the Chariot of Israel
+<note n="d" place="margin">He calls him by this name in an allusion to the Chariot, wherein he was fetch'd to Hea<g ref="char:EOLhyphen"/>ven, and would express by this form of speech the good service he did for <hi>Israel, Id Ib</hi> p. 492.</note>, and the horsemen thereof. Elijah</hi> was unto <hi>Is<g ref="char:EOLhyphen"/>rael</hi> what <hi>Chariots and horsemen</hi> are unto an <hi>army:</hi> he was instead of an <hi>army</hi> to all <hi>Israel,</hi> their <hi>security</hi> and <hi>safe<g ref="char:EOLhyphen"/>guard.</hi> The <hi>Chaldee</hi> Paraphrast, and <hi>Arabick</hi> Version
+<note n="e" place="margin">V. Bibl. Poly<g ref="char:EOLhyphen"/>glot.</note> read the words thus; <hi>Thou wast better to Israel by thy Prayers, than Chariots and horsemen.</hi> Hinting this most
+<pb n="5" facs="tcp:40437:5"/>certain truth, that <hi>praying souls are a Lands best munition</hi>
+               <note n="a" place="margin">V. Mr. <hi>Charles Fitz Geffery.</hi> on 2 King. 2.12.</note>; There seems to be a kind of <hi>solecism</hi> in the Prophets speech, <hi>My father, the Horsemen of Israel:</hi> How can <hi>one</hi> man be <hi>horsemen?</hi> How can <hi>one</hi> man be <hi>many</hi> men? Is it not usu<g ref="char:EOLhyphen"/>ally said
+<note n="b" place="margin">Unus vit, nul<g ref="char:EOLhyphen"/>lus vit.</note>, <hi>one is none?</hi> Hereby is intimated, that <hi>one praying soul is as good</hi> (if not better) <hi>munition, as a whole Army Royal.</hi> The Prophet tells us
+<note n="c" place="margin">Isa. 65.8.</note>, that <hi>for one good grape, the whole cluster, yea the whole vineyard shall be fenced and pre<g ref="char:EOLhyphen"/>served:</hi> What a mad age then do they live in, in which the worlds <hi>Horsemen</hi> and <hi>Chariots</hi> are entertained as the <hi>Souldiers</hi> by the <hi>Bores</hi> in the <hi>Low Countries?</hi> They cannot be <hi>safe</hi> without them, and yet they cannot <hi>abide</hi> them. What do such mean? Are they weary of their safety? Alas poor sinners! Is it nothing to turn the <hi>edge</hi> of the Saints Prayers <hi>against</hi> your selves, and so make your own <hi>Horsemen</hi> to run <hi>upon</hi> you, and your own <hi>Chariot wheels</hi> to run <hi>over</hi> you? Verily, if you turn the prayers of Saints against you, their prayers will quickly turn the God of Saints against you. But so much for the <hi>external</hi> causes of <hi>Elisha's</hi> grief.</p>
+            <p n="2">2. The <hi>internal</hi> causes are also two.
+<list>
+                  <item>1. <hi>His high esteem of Elijah,</hi>
+                  </item>
+                  <item>2. <hi>His dear love unto Elijah.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Elisha highly esteemed Elijah,</hi> and therefore he could not choose but be much grieved at his being taken away from him. His words, <hi>My Father, &amp;c.</hi> intimate his <hi>ho<g ref="char:EOLhyphen"/>nouring</hi> him as his <hi>Father, Leader, Commander, Master:</hi> as the <hi>General</hi> of the sons of the Prophets
+<note n="d" place="margin">Elijah fuit dux gregis Prophe<g ref="char:EOLhyphen"/>tarum, 2 <hi>King.</hi> 2.3, 5. Gurtus &amp; equites con<g ref="char:EOLhyphen"/>stat praecipua esse belli robo<g ref="char:EOLhyphen"/>ra, &amp;c. <hi>Pet. Mat<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. ad locum.</hi>
+               </note>, as the very <hi>host</hi> and army of <hi>Israel;</hi> yea, as the <hi>strength</hi> of their Army. Now what we highly esteem, we will be much troubled for the loss of.</p>
+            <p n="2">2. <hi>Elisha</hi> did not onely esteem, but <hi>dearly love Elijah;</hi> and therefore also he doth so lament his removal. <hi>Elishae</hi> burnt in love to <hi>Elijah</hi> (saith one) when he spake these words, <hi>My father, my father!</hi> as if some <hi>spark</hi> had fal<g ref="char:EOLhyphen"/>len from <hi>Elijahs</hi> fiery Chariot into his <hi>heart.</hi> There is not a Child that can cry more after the breasts that give it
+<pb n="6" facs="tcp:40437:6"/>suck, then he calls and cries after his Father, <hi>O my Father, my Father</hi> I Whereshall I find my Father? what will become of me without my Father? Now the taking away what we deatly love, goes very much unto our hearts: we find that <hi>Jesus</hi> himself wept for his friend <hi>Lazarus
+<note n="a" place="margin">John 11.55.</note>, At this the fews said, Behold how he loved him!</hi> Two <hi>friends</hi> joyned together in cordial love, cannot <hi>part</hi> without a <hi>groan;</hi> espe<g ref="char:EOLhyphen"/>cially a <hi>Scholar</hi> and his <hi>Master,</hi> a <hi>Son</hi> and his <hi>Father.</hi> Shall not then <hi>Elisha</hi> be grieved at the very heart, when his be<g ref="char:EOLhyphen"/>loved spiritual Father was taken away from him. So much for the opening of the words. The <hi>Doctrine</hi> that naturally ariseth from them is this;</p>
+            <p>Doct. <hi>That God taking away his</hi> Elijah's <hi>is matter of grief to his</hi> Elisha's.</p>
+            <p>Gods <hi>Elisha's</hi> cannot but <hi>mourn</hi> when Gods <hi>Elijah's</hi> are <hi>removed</hi> from them, whether it be by a <hi>natural</hi> death, or any <hi>other</hi> death. This truth requires,
+<list>
+                  <item>1. <hi>Explication,</hi>
+                  </item>
+                  <item>2. <hi>Confirmation,</hi> but chiefly</item>
+                  <item>3. <hi>Application.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. For the <hi>explication</hi> of the sense and meaning of the Doctrine, two Questions must be answered;
+<list>
+                  <item>1. <hi>Who are Gods Elijah's?</hi>
+                  </item>
+                  <item>2. <hi>Who are Gods Elisha's?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Quest. 1. <hi>Who are Gods Elijah's, whose taking away is such a grief of heart to Gods Elisha's?</hi>
+            </p>
+            <p>
+               <hi>Answ. Elijah</hi> (according to <hi>Hierome</hi>) signifies <hi>the Minister of Jehovah;</hi> Gods <hi>Elisha's</hi> then are Gods Mini<g ref="char:EOLhyphen"/>sters, and such Ministers are Gods Ministers, who may be parallell'd with <hi>Elijah,</hi> though not in a parallel of <hi>equality,</hi> yet in a parallel of <hi>conformity.</hi> Gods <hi>Elijah's</hi> are Ministers like unto <hi>Elijah</hi> in the following particulars, wherein <hi>Elijah</hi> was <hi>eminent</hi>
+               <note n="b" place="margin">See Mr. <hi>Casei</hi> Sermon on Jam. 5.17. <hi>p.</hi> 44. <hi>&amp;c.</hi>
+               </note>.</p>
+            <p n="1">1. <hi>Elijah</hi> was <hi>full of God.</hi> In the name <hi>Elijah,</hi> there are <hi>two</hi> if not <hi>three</hi> of the <hi>divine Names</hi> included. And as his <hi>name</hi> was, so was <hi>he,</hi> full of God, <hi>eminently godly.</hi> Gods
+<pb n="7" facs="tcp:40437:6"/>
+               <hi>Elijah's</hi> are onely such Ministers as are <hi>partakers of the di<g ref="char:EOLhyphen"/>vine nature</hi>
+               <note n="a" place="margin">2 Pet. 1.4.</note>.</p>
+            <p n="2">2. <hi>God did in an eminent manner communicate his coun<g ref="char:EOLhyphen"/>sels, and reveal his secrets to</hi> Elijah
+<note n="b" place="margin">2 King. 1.17.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.9.36.10.17. Mal. 4.5. Mat. 17.3.</note>; Gods <hi>Elijahs</hi> are onely such <hi>Ministers</hi> as are <hi>annointed</hi> with the <hi>Holy Ghost, and taught by the spirit</hi>
+               <note n="c" place="margin">1 Joh. 2.20.</note>.</p>
+            <p n="3">3. Elijah <hi>was a powerful Prophet</hi>
+               <note n="d" place="margin">1 King. 17.14, 15, 16. 2 King 1.12, 14-2.8.</note>; His very Name imports it: <hi>Elijah</hi> signifies <hi>my strong God Jehovah.</hi> He was not one<g ref="char:EOLhyphen"/>ly <hi>mighty in dead,</hi> but in <hi>word;</hi> he wrought <hi>many</hi> mi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acles, and by <hi>one</hi> Sermon he brought back many thousands of the Idolatrous Israelites to the worship of the true God
+<note n="e" place="margin">1 King. 18.39.</note>: <hi>John Baptist,</hi> because of his powerful preaching, is said to go be<g ref="char:EOLhyphen"/>fore Christ <hi>in the spirit and power of Elijah</hi>
+               <note n="f" place="margin">Luk. 1.17.</note>; Gods <hi>Eli<g ref="char:EOLhyphen"/>jah's</hi> are such Ministers, whose ministry is a <hi>startling, awake<g ref="char:EOLhyphen"/>ning, humbling, warming, edifying</hi> ministry; Converting Ministers are Gods <hi>Elijah's</hi>
+               <note n="g" place="margin">Mal. 4.5.</note>.</p>
+            <p n="4">4. <hi>Elijah was very zealous for God and his pure worship, and against Baal, and all false worship.</hi> He pleaded Gods cause against <hi>Baal</hi> and his <hi>Priests</hi> by <hi>fire;</hi> by a fire not to be obstructed, damped or quenched by all the effusion of water upon the sacrifice and Altar
+<note n="h" place="margin">1 King. 18.17-19.10, 14.</note>: <hi>Zeal</hi> therfore for <hi>God</hi> and his <hi>pure worship</hi> against all <hi>false worship,</hi> and <hi>halting</hi> between <hi>God</hi> and <hi>Baal,</hi> is another Character of God's <hi>Eli<g ref="char:EOLhyphen"/>jah's.</hi>
+            </p>
+            <p n="5">5. Elijah <hi>was as couragious, as zealous.</hi> He durst stand up for the Lord, even when he thought himself <hi>alone</hi> against the tide and torrent of the Apostacy of that generation, that was even turned <hi>Baalist:</hi> even then he appears and pro<g ref="char:EOLhyphen"/>tests against them and their Idolatry, and Apostacy to their faces, and commands and sees execution to be done upon 450 Idolatrous Prophets, under the wing of an Idolatrous Queen, and before the very face of a wicked King
+<note n="i" place="margin">King. 18.18; 21, 22, 40.-19.14.</note>: Was not here courage even to a miracle? To be couragious for God in the worst of times is another character of God's <hi>Elijahs.</hi>
+            </p>
+            <p n="6">6. Elijah <hi>was eminent for tenderness of spirit</hi>
+               <note n="k" place="margin">1 King. 19.10, 14.</note>. Though he was of so <hi>stout</hi> a spirit that he could <hi>bare</hi> any <hi>wrang</hi>
+               <pb n="8" facs="tcp:40437:7"/>and <hi>injury</hi> done to <hi>himself,</hi> yet he was of so <hi>tender</hi> a spirit, that he could <hi>scace bare</hi> the <hi>dishonours</hi> that in his time were brought <hi>to the name of God,</hi> the wrong and injuries that were offered to the <hi>Saints</hi> of the most high, and the dirt that was thrown upon Gods own <hi>Ordinances.</hi> Ministers of such a tender spirit are Gods <hi>Elijah's</hi> still.</p>
+            <p n="7">7. Elijah <hi>was much and mighty in Prayer.</hi> The Scrip<g ref="char:EOLhyphen"/>ture calls him <hi>Israels Intercessor
+<note n="a" place="margin">Rom. 11.2.</note>; He prayed earnestly</hi>
+               <note n="b" place="margin">Jam. 5.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>; He prayed in praying, a known Hebraisme: <hi>Verbals added to Verbs is a kind of construction among the Hebrews, which implies vehemency.</hi> Praying Ministers are still Gods <hi>Eli<g ref="char:EOLhyphen"/>jah's.</hi>
+            </p>
+            <p n="8">8. Elijah <hi>added Fasting to Prayer;</hi> He fasted 40 dayes and 40 nights at one time
+<note n="c" place="margin">1 King. 9.8.</note>: Gods <hi>Elijahs</hi> still make con<g ref="char:EOLhyphen"/>science of joining these duties together.</p>
+            <p n="9">9. Elijah <hi>was so far from living to the world, that he hardly lived in the world;</hi> his <hi>fare</hi> was <hi>hard,</hi> his <hi>rayment course;</hi> both <hi>suitable</hi> to a <hi>wilderness,</hi> wherein he chose to live among bruit <hi>beasts,</hi> rather then elsewhere among bruitish <hi>men.</hi> God's <hi>Elijah's</hi> are still <hi>crucified to the world.</hi>
+            </p>
+            <p n="10">10. And lastly, <hi>Elijah was persecuted by Achab and Je<g ref="char:EOLhyphen"/>zabel;</hi> he was put to fly for his life
+<note n="d" place="margin">1 King. 10.18.-19.1, 2, 3.</note>; he was one of those holy wanderers
+<note n="e" place="margin">Heb. 11.37.</note> the Scriptures <hi>little book of Martyrs</hi> makes mention of. To be persecuted by the world is ano<g ref="char:EOLhyphen"/>ther character of God's <hi>Elijah's</hi>
+               <note n="f" place="margin">Praedicare nihil aliud, quam derivare in se furorem mundi. <hi>Luth.</hi>
+               </note>. Thus you see who are God's <hi>Elijah's.</hi> Now for God to take away either by a <hi>na<g ref="char:EOLhyphen"/>tural,</hi> or by a <hi>civil</hi> death, such <hi>Mimsters</hi> as are <hi>godly, in<g ref="char:EOLhyphen"/>timate with God, powerful in preaching, zealous and coura<g ref="char:EOLhyphen"/>gious for the pure worship of God, and against all false wor<g ref="char:EOLhyphen"/>ship; tender of the Name, and holy things of God; much in Prayer and Fasting; erucified to the world, and persecuted by the world,</hi> is matter of much grief of heart to God's <hi>Eli<g ref="char:EOLhyphen"/>sha's.</hi> The next enquiry is,</p>
+            <p>Quest. 2. <hi>Who are God's Elisha's? Who cannot but l<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to heart Gods taking away of his Elijah's?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Such Ministers and Christians as are like <hi>elisha</hi>
+               <pb n="9" facs="tcp:40437:7"/>in grace and holiness; particularly, such as are of a <hi>pitiful</hi> temper, and <hi>merciful</hi> dispofition: such was the frame of <hi>Elisha's</hi> spirit, as evidently appears by the many marks of merey he did. Such as have any <hi>bowels</hi> of <hi>pity</hi> towards their <hi>own</hi> or <hi>others souls,</hi> or to the <hi>place</hi> where they <hi>live,</hi> or to the <hi>land</hi> of their <hi>Nativity,</hi> will herein imitate <hi>Elisha</hi> in la<g ref="char:EOLhyphen"/>menting Gods taking away such Ministers as are like unto <hi>Elijah</hi> in the former particulars, and therefore called God's <hi>Elijah's,</hi> as
+<note n="a" place="margin">Mal. 4.5. Mat. 17.10.11.-11.14.</note>
+               <hi>John</hi> the Baptist was. In a word, <hi>Gods sa<g ref="char:EOLhyphen"/>ved ones</hi> will be sure to lay to heart such a stroak. <hi>Elisha</hi> sig<g ref="char:EOLhyphen"/>nifies <hi>the salvation of God,</hi> being derived of <hi>(El) i.e.</hi> God, and <hi>(Jashag)</hi> hath saved. Such as God hath saved from the <hi>guilt</hi> and <hi>dominion</hi> of sin, and <hi>wrath</hi> to come by the preaching of the Gospel, cannot but be much <hi>afflicted,</hi> when God <hi>takes away</hi> the <hi>means</hi> of salvation. But so much for the <hi>explica<g ref="char:EOLhyphen"/>tion</hi> of the doctrine. The second thing undertaken is,</p>
+            <p n="2">2. <hi>The confirmation of it.</hi> And herein <hi>I</hi> shall give you onely the same reasons, for which <hi>Elisha</hi> did thus lament the taking away of <hi>Elijah.</hi>
+            </p>
+            <p n="1">1. There are the same <hi>external</hi> causes, why those that are like God's <hi>Elishah's</hi> should lament God's taking away such Ministers as are like <hi>Elijah,</hi> as there were why <hi>Elisha</hi> should lament God's taking away <hi>Elijah:</hi> Both their own <hi>private</hi> loss, and the <hi>publick</hi> loss of such Ministers should move them.</p>
+            <p n="1">1. <hi>Their own private loss.</hi> Such Ministers as are like unto <hi>Elijah,</hi> are unto such Christians as are like unto <hi>Elisha,</hi> what <hi>Elijah</hi> was unto <hi>Elisha.</hi> They are their spiritual Fathers; No <hi>Abraham</hi> can more love his <hi>Isaac,</hi> then such Ministers <hi>love</hi> such Christians
+<note n="b" place="margin">2 Cor. 11.11. Phil. 1.23, 24, 25.</note>; never was the most tender-hearted Father more careful to <hi>provide</hi> for his dear children, then such Ministers for such Christians. <hi>They naturally care for the welf are of their souls</hi>
+               <note n="c" place="margin">Phil. 2.20.</note>, as if they were led thereunto by inward <hi>bowels</hi> and a natural <hi>instinct;</hi> when such Mini<g ref="char:EOLhyphen"/>sters are taken away from such Christians, they are taken away, who either have <hi>begotten</hi> them again by the Gospel,
+<pb n="10" facs="tcp:40437:8"/>as <hi>Paul</hi> had the <hi>Corinthians</hi>
+               <note n="a" place="margin">1 Cor. 4.15.</note>; or if they were begotten by others, loved them as dearly, and cared for them as anxi<g ref="char:EOLhyphen"/>ously as the most loving Father his own Children
+<note n="b" place="margin">1 Thes. 2.7.</note>. Now the relation that is between a, <hi>Father</hi> and a <hi>Child</hi> hath in it more of <hi>love,</hi> and more of <hi>grief</hi> than any other relation. When <hi>Joseph</hi> buried <hi>Jacob</hi> his Father
+<note n="c" place="margin">Gen. 50.10.</note>, <hi>he mourned with a great and very sore lamentation.</hi> It is sad to lose <hi>a Jonathan,</hi> sadder to lose a <hi>Jacob;</hi> sadder yet to lose <hi>one Elijah;</hi> but saddest of all to lose <hi>many Elijahs.</hi> Who can think of their Fatherly <hi>bowels,</hi> of their burning <hi>love,</hi> of their gracious <hi>lips,</hi> of their heart-searching, heart-melting, heart-warming, heart-purging, heart-clearing <hi>Sermons;</hi> of their unwearied <hi>care</hi> to feed and provide for the everlasting welfare of souls; to defend and protect them from all errors, superstitions, idolatries, corruptions, to reprove and correct any thing amiss in them; not onely to give them good counsel, but good ex<g ref="char:EOLhyphen"/>ample of their cordialness in <hi>blessing</hi> souls in the name of the Lord; and not cry out, <hi>Ah our father! Ah our glory!</hi> Can a <hi>Father,</hi> can <hi>Fathers</hi> be <hi>parted</hi> with without <hi>sighs,</hi> yea <hi>tears?</hi> Can the child hold it self from crying when it wants the breast that used to seed it? Thus their own <hi>private</hi> less moves them.</p>
+            <p n="2">2. The <hi>publick</hi> loss moves them much more. Such Mini<g ref="char:EOLhyphen"/>sters are not onely to such <hi>Christians</hi> what <hi>Elijah</hi> was unto <hi>Elisha,</hi> but they are unto <hi>Kingdoms</hi> what <hi>Elijah</hi> was unto <hi>Is<g ref="char:EOLhyphen"/>rael, The Chariots and horsemen thereof.</hi> Good <hi>men,</hi> espe<g ref="char:EOLhyphen"/>cially good <hi>Ministers,</hi> are next to <hi>God,</hi> and good. <hi>Angels,</hi> the <hi>walls and bulwarks of a Nation. It was by a Prophet the Lord brought Israel out of Egypt, and by a Prophet was he preserved</hi>
+               <note n="d" place="margin">Hos. 12.13. V. <hi>Bur. ad locum.</hi>
+               </note>, saith the Prophet <hi>Hosea, q. d.</hi> Now you care not for the Lords Prophets, <hi>&amp;c.</hi> but remember there was a time when a Prophet stood you in stead. If you did but regard your own temporal welfare, you would not slight the Lords Prophets: What had become of you in <hi>Egypt,</hi> and in the <hi>wilderness,</hi> had it not been for a poor despised Prophet among you? God's <hi>Elijah's</hi> are still unto Nations and King<g ref="char:EOLhyphen"/>doms
+<pb n="11" facs="tcp:40437:8"/>instead of <hi>Armies;</hi> they are so many <hi>Davids worth ten thousands of the pleople</hi>
+               <note n="a" place="margin">2 Sam. 18.3.</note>. One calls them in the <hi>Plato<g ref="char:EOLhyphen"/>nists</hi> phrase; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the keepers of the world,</hi> that preserve it from being made like to <hi>Sodom</hi> and <hi>Gomorrah.</hi> Seeing then good Ministers are such <hi>publick good,</hi>
+               <note n="b" place="margin">See five rea<g ref="char:EOLhyphen"/>sons why good Ministers are the greatest safety to a Na<g ref="char:EOLhyphen"/>tion, in Mr. <hi>Ob. Sedgwicks</hi> Ser<g ref="char:EOLhyphen"/>mon on this Text at the Fun. of Mr. <hi>Strong.</hi> As also four reasons, why godly men (and therefore much more godly Ministers) are the best mu<g ref="char:EOLhyphen"/>nition in Mr. <hi>Fitz-Geoffery's</hi> Sermon on this Text.</note>, should not good <hi>publick spirited</hi> Christians mourn heartily for Gods taking them away? Hereby not onely <hi>souls</hi> are (in a sense) left <hi>Orphans;</hi> but <hi>Kingdoms</hi> are left <hi>unguarded,</hi> without walls and bulwarks, deprived of their <hi>Tutelar-An<g ref="char:EOLhyphen"/>gels.</hi> Thus you see there are the same <hi>external</hi> causes.</p>
+            <p n="2">2. There are the same <hi>Internal</hi> causes still, why God's <hi>Elijah's</hi> should be lamented by God's <hi>Elisha's.</hi> The esteems that God's <hi>Elisha's</hi> still have of God's <hi>Elijah's,</hi> and the <hi>af<g ref="char:EOLhyphen"/>fections</hi> they bear unto them, will not suffer God's <hi>Elijah's</hi> to be taken away from them, unlamented by them. God's <hi>Elisha's</hi> are still moved,</p>
+            <p n="1">1. By their <hi>esteems</hi> of God's <hi>Elijah's;</hi> good souls have still the same esteems of good Ministers, as <hi>Elisha</hi> had of <hi>Elijah.</hi> They esteem them as the <hi>greatest</hi> gift, as the <hi>best</hi> gift that ever Christ gave unto souls, next unto <hi>himself,</hi> and his <hi>spirit
+<note n="c" place="margin">Eph. 4.8, 11, 12, 13.</note>. They esteem them highly, very highly for their work sake</hi>
+               <note n="d" place="margin">1 Thes. 5.12.</note>, for their office sake; and therefore cannot but be very much troubled for Gods taking them away. Thus they are moved by their <hi>esteems:</hi> They are also mo<g ref="char:EOLhyphen"/>ved,</p>
+            <p n="2">2. By their <hi>Loves</hi> for God's <hi>Elijahs:</hi> good souls have still the same affections for good Ministers, as <hi>Elisha</hi> had for <hi>Elijah;</hi> and that both for the <hi>good</hi> they have done their <hi>own</hi> and <hi>others souls,</hi> and for their being so instrumental for the good of <hi>Kingdoms.</hi> Good Christians cannot but dearly love their <hi>spiritual Fathers,</hi> and those that are <hi>under God</hi> the great <hi>saviours of Churches and States</hi> from ruine. They have the same loves for them, which the <hi>Galathians</hi> had for the Apostle <hi>Paul</hi>
+               <note n="e" place="margin">Gal 4 14, 15.</note>. Can we then wonder, if they be very much troubled for Gods taking away such useful instruments, that the lights of the world should be put out;
+<pb n="12" facs="tcp:40437:9"/>
+               <hi>That their Sun should go down at Noon
+<note n="a" place="margin">Amos 8.9.</note>, that the founda<g ref="char:EOLhyphen"/>tions should be destroyed
+<note n="b" place="margin">Esal 11.3.</note>, that the desire of their eyes should be taken away</hi>
+               <note n="c" place="margin">Ezek. 24.16.</note>, that their deerly beloved, and greatly de<g ref="char:EOLhyphen"/>lighted in, should be removed from them? This made the Elders of <hi>Ephesus,</hi> and other Believers, at their parting from <hi>Paul,</hi> to weep, and to weep sore, and that universally, <hi>they all wet sore</hi>
+               <note n="d" place="margin">Act 20.17.</note>; because they dearly loved him, which they expressed most, pathetically in <hi>falling upon his nock, and kissing him.</hi> But so much for the Reasons of the Doctrine; The third and last thing undertaken is the <hi>Application,</hi> and therefore,</p>
+            <p n="3">III. The usefulness of this Doctrine is next to be evinced, and that (omitting several uses that may be made of it) by considering it, as
+<list>
+                  <item>1. <hi>A Bill of Indictment,</hi>
+                  </item>
+                  <item>2. <hi>A Call from Heaven.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Ʋse</hi> 1. This Doctrine is <hi>a black Bill of Indictment</hi> against two sorts of offenders,</p>
+            <p n="1">1. Against those that are at any time any ways guilty of the death of God's <hi>Elijah's,</hi> whether they die by a <hi>civil,</hi> or by a <hi>natural</hi> death.</p>
+            <p n="1">1. This Doctrine is a black Bill of Indictment against those that are at any time guilty of the <hi>civil</hi> deaths of any of God's <hi>Elijah's.</hi> Not onely the <hi>principals</hi> in, but all the <hi>ac<g ref="char:EOLhyphen"/>cessories</hi> to the <hi>silencing</hi> of godly Ministers are worthy of sharp rebuke, whether they be accessory <hi>a parte ante,</hi> or <hi>a parte post;</hi> for so many ways we may be accessory to ano<g ref="char:EOLhyphen"/>thers sin. <hi>A parte ante,</hi> before it be committed, by <hi>com<g ref="char:EOLhyphen"/>manding</hi> it, by <hi>advising</hi> to it, by <hi>inciting</hi> to it, and by <hi>not hindring</hi> it as much as we might
+<note n="e" place="margin">2 Sam. 12.9. compared with Ch. 11.15. Act. 4.10. 1 Tim. 2.14. 1 Sam. 3.13.</note>. <hi>A parte post,</hi> after the sin is committed, by not <hi>mourning</hi> for it; by not <hi>reproving</hi> it in <hi>word</hi> or <hi>deed;</hi> by <hi>liking and approving</hi> of it; by <hi>de<g ref="char:EOLhyphen"/>fending</hi> it, by <hi>delighting</hi> in the <hi>company</hi> of the <hi>principals,</hi> and by <hi>imitating</hi> of them
+<note n="f" place="margin">1 Cor. 5.2. Lev. 5.1. Eph. 5.11. 1 King 21.19. Act. 8.1.-22, 20. 2 Joh. 11. Judg. 20. Isa. 9.16.-5 20. Ezek. 13.10.12. 1 Cor. 5.6. Mat. 23.34, 35, 36.</note>. All these are guilty of murther<g ref="char:EOLhyphen"/>ing God's <hi>Elijah's;</hi> they are guilty of the blood of spiritual Fathers, of the Chariots and Horsemen of <hi>Israel.</hi> To clear
+<pb n="13" facs="tcp:40437:9"/>this, consider that the killing of Christs witnesses, prophe<g ref="char:EOLhyphen"/>sied of in the <hi>Revelation</hi>
+               <note n="a" place="margin">Rev. 11.7.</note>, is to be understood <hi>metaphori<g ref="char:EOLhyphen"/>cally,</hi> or <hi>analogically</hi> of a <hi>civil</hi> death, and not <hi>literally</hi> of a <hi>corporal</hi> death. The killing is a killing them as <hi>witnesses,</hi> and not as <hi>men:</hi> it is a throwing them out of their places and stations, as if they were naturally dead. This is evi<g ref="char:EOLhyphen"/>dent, both because their bodies are said <hi>to lie dead and un<g ref="char:EOLhyphen"/>buried three years and an half;</hi> and because after that time, <hi>there shall be a resurrection of them</hi>
+               <note n="b" place="margin">Rev. 11.8, 11.</note>, but no resurrection, properly so called, shall come to pass before Christs coming.</p>
+            <p n="2">2. This Doctrine is a black Bill of Indictment against those that are at any time guilty of the <hi>corporal</hi> deaths of any of God's <hi>Elijah's:</hi> such (I mean) as take the direct course to take away the natural lives of God's <hi>Elijah's,</hi> especially of his <hi>silenc'd Elijah's,</hi> by <hi>sadding,</hi> yea, <hi>breaking</hi> their <hi>hearts</hi> by their <hi>unprofitableness, unfruitfulness, unthank<g ref="char:EOLhyphen"/>fulness, inccorrigibleness, impenitency, unreformedness, unperswadableness to hear the voice of the Rod, Gospel-un<g ref="char:EOLhyphen"/>becoming conversations, apostacies, backslidings,</hi> &amp;c. All such are guilty of making the hearts of those sad, whom God would not have sad; yea they are guilty of murthering their Fathers. <hi>We live</hi> (saith the Apostle
+<note n="c" place="margin">2 Thes 3.8.</note>) <hi>if ye stand fast in the Lord, q.d.</hi> Notwithstanding all our miseries, though death be present before us, we are healthful and chearful so long as you walk as becometh the Gospel; so long as you are zealous for God, his truths and waies, and so persevere whatever you meet with. The Apostle clearlie implies, that <hi>nothing is more killing to Gods faithful Ministers, then the backslidings of their people.</hi> I need say no more, if we had but the same thoughts of blood-guiltiness, which <hi>David</hi> had, when he cried out, <hi>Deliver me from blood guiltiness, O God</hi>
+               <note n="d" place="margin">Psal. 51.19.</note>: In the Hebrew it is from bloods. Verily in every <hi>drop</hi> of blood there is a <hi>tongue</hi> crying for vengeance. What is there then in the bloud of an <hi>Abel?</hi> What is there in the blood of an <hi>Elijah?</hi> What is there in the blood of many <hi>Elijahs?</hi> But so much for those that are any waies guilty
+<pb n="14" facs="tcp:40437:10"/>of the deaths of any of God's <hi>Elijah's</hi> at any time. The Doctrine is also a black Bill of Indictment.</p>
+            <p n="2">2. Against those who do not lay to heart the <hi>proper</hi> or <hi>figurative</hi> deaths of any of God's <hi>Elijah's</hi> at any time. Ma<g ref="char:EOLhyphen"/>ny have spoken of their proper deaths; I shall speak onely of their figurative or civil deaths. Now when God suffers any of his <hi>Elijah's</hi> to be silenced, they do not lay it to heart, that come under any of the following ranks.</p>
+            <p n="1">1. Such as are <hi>merry</hi> and do <hi>rejoice</hi> when any, especially when many godlie, annointed, powerful, zealous, coura<g ref="char:EOLhyphen"/>gious, tender, praying, fasting, mortified and persecuted Ministers have their mouths stopt; and that because then they shall no more be reproved by them in publick, nor hear any of the threats, and curses of God denounced a<g ref="char:EOLhyphen"/>gainst them for any of their iniquities. These have the <hi>mark of the beast</hi> upon them. The Holy Ghost stigmatizeth Antichrists Brats with this character; <hi>They,</hi> upon the slaughter of Christs witnesses, <hi>rejoyce and make merry, and send gifts one unto another, because those that tormented them be taken away</hi>
+               <note n="a" place="margin">Rev. 11.10.</note>. I have read, that upon the news of the <hi>French Massacre,</hi> which began on <hi>Bartholomew</hi> day, a <hi>Jubilee</hi> was proclaimed in <hi>Rome.</hi> To be sure the last slaughter of Christs witnesses will fill all the Popish world with rejoycings, that they are rid and avenged of those who vexed and troubled their consciences. But the comfort is, <hi>their joy will be but short
+<note n="b" place="margin">Isa. 22.12, 13, 14.</note>. This iniquity shall not be purged away till you die</hi>
+               <note n="c" place="margin">See Mr. <hi>Gataker</hi> in the large An<g ref="char:EOLhyphen"/>not. on the place.</note> O the dreadfulness and dire<g ref="char:EOLhyphen"/>fulness of that doom, passed by God himself upon these wretches, and bound with an oath to make it irrevocable, that this hideous wickedness shall by no means be expiated.</p>
+            <p n="2">2. Such also, who <hi>reproach</hi> the Lords silenced Ministers, and trample upon these dead Lions, and <hi>jear</hi> the Lords people for their sorrow in such a day of <hi>Sions</hi> rebuke
+<note n="d" place="margin">Lam<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3.60.61, 62, 63.</note>: A<g ref="char:EOLhyphen"/>mong whom it is to the reproach of Saints
+<note n="e" place="margin">Psal. 69, 10, 11, 12.</note>, that they weep, and fast, and humble themselves for provoking God to suffer their <hi>Elijah's</hi> to be silenced. <hi>Against whom</hi> (saith
+<pb n="15" facs="tcp:40437:10"/>God
+<note n="a" place="margin">Isa. 57 4.</note> to such) <hi>do ye sport your selves? against whom do ye make a wide mouth, &amp;c? Are ye not children of transgres<g ref="char:EOLhyphen"/>sion, a seed of falsehood?</hi> If a <hi>child</hi> hath lost his <hi>Father,</hi> he thinks that Nature doth not onely <hi>justifie,</hi> but <hi>command</hi> his tears. The loving <hi>wife</hi> cannot part with her dear <hi>husband</hi> without <hi>sighs,</hi> yea <hi>tears.</hi> No <hi>Kingdom</hi> can part with their <hi>Chariots and Horsemen,</hi> their Balwarks, without <hi>lamen<g ref="char:EOLhyphen"/>tation.</hi> And shall not <hi>Christians,</hi> when God suffers his <hi>Elijah's</hi> to be taken away by a <hi>civil</hi> death, have liberty to mourn for the loss of their spiritual <hi>Fathers,</hi> of their spiri<g ref="char:EOLhyphen"/>ritual <hi>husbands;</hi> such (I mean) as have <hi>espoused them for Christ?</hi> Shall not the <hi>land</hi> have leave to lament the loss of their <hi>Chariots</hi> and <hi>horsemen?</hi> Pray give losers leave to speak.</p>
+            <p n="3">3. Such also, who remain <hi>secure</hi> and <hi>fearless,</hi> notwith<g ref="char:EOLhyphen"/>standing such a loud <hi>alarm</hi> from Heaven. When <hi>Metellus</hi> heard of the death of <hi>Scipio Africanus,</hi> he ran out into the publick <hi>Forum,</hi> or market place, and cried out, <hi>O Citizens, come ye forth and consult what is to be done, for the walls of your City are fallen down.</hi> Will not that <hi>Heathen</hi> rise up in judgment against secure <hi>Professors?</hi>
+            </p>
+            <p n="4">4. Such also, as do not <hi>mourn</hi> for, and <hi>repent</hi> of those <hi>sins</hi> of theirs, which have <hi>stopped</hi> the mouths of God's <hi>Eli<g ref="char:EOLhyphen"/>lijah's.</hi> Hereby it was evident that <hi>Pharoah</hi>
+               <note n="b" place="margin">Exod. 7.13.</note> was not sen<g ref="char:EOLhyphen"/>sible of God's Plague; because he neither humbled himself for, nor repented of the cause thereof. Under this rank come all those that are, 1. As <hi>unthankful</hi> for the Gospel and precious liberties they once enjoied as ever
+<note n="c" place="margin">Isa. 1.2, 8.</note>; 2. As <hi>bar<g ref="char:EOLhyphen"/>ren</hi> under the means of grace that are continued to them, as ever
+<note n="d" place="margin">Isa. 5.40.</note>; 3. As <hi>weary</hi> of those Ordinances that yet remain, as ever
+<note n="e" place="margin">Amos. 8.5, 11.</note>; 4. As <hi>lightly esteem</hi> the <hi>scarce,</hi> and therefore much more <hi>precious</hi> Word, as ever
+<note n="f" place="margin">1 Sam 3 2.</note>; And 5. <hi>Grieve</hi> the souls, and even <hi>break</hi> the hearts of Gods faithful Ministers by their disobedience and scandalous actions, as much as ever
+<note n="g" place="margin">2 Chro. 36.1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. These, and such like, that still live in those sins, for which God hath so smitten them, evidence by their im<g ref="char:EOLhyphen"/>penitency
+<pb n="16" facs="tcp:40437:11"/>their not laying to heart Gods sore stroake. <hi>Thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder then a rock, they have refused to return</hi>
+               <note n="a" place="margin">Jer. 5.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>.</p>
+            <p n="5">5. All <hi>prayerless</hi> souls are also in this condemnation. <hi>The people turneth not unto him that smiteth them, neither do they seek the Lord of Hosts</hi>
+               <note n="b" place="margin">Isa 9.13.</note>. The Lord sendeth all af<g ref="char:EOLhyphen"/>flictions for this very end, to bespeak Prayer. <hi>Is any among you afflicted, let him pray</hi>
+               <note n="c" place="margin">Jam. 5.13.</note>. But when he doth withdraw the tokens of his presence from a people, he doth in an espe<g ref="char:EOLhyphen"/>cial manner bespeak Prayer. <hi>I will go and return unto my place, till they acknowledg their offence, and seek my face</hi>
+               <note n="d" place="margin">Hos. 5.15.</note>. Such therefore do not hear the voice of such a Rod, who restrain Prayer whilest they are under it. The word ren<g ref="char:EOLhyphen"/>dred to restrain
+<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Significat &amp; ademit &amp; mi<g ref="char:EOLhyphen"/>nuit. Prohibi<g ref="char:EOLhyphen"/>tionem &amp; defe<g ref="char:EOLhyphen"/>ctum. <hi>Schindl. in Verbum.</hi> Est prohibere &amp; di<g ref="char:EOLhyphen"/>minuere. <hi>Mere. in Pagn.</hi>
+               </note>, <hi>(Job</hi> 15.4.) signifies both to withdraw or stop, and to lessen or diminish, as (<hi>Jer.</hi> 48.37.) <hi>every beard restrained,</hi> i.e. clipt or diminished; It is true here in both senses. They are in this condemnation who either totally <hi>forbear,</hi> and <hi>throw up</hi> the duty of Prayer, or who <hi>shorten</hi> and <hi>abate</hi> it, whilest under such an hand of God. Yea,</p>
+            <p n="6">6. Such also, as do not <hi>pray better</hi> than ever. <hi>If any a<g ref="char:EOLhyphen"/>mong you be afflicted, let him pray</hi>
+               <note n="f" place="margin">Jam. 5.13.</note>, i.e. let him be more then ordinary in Prayer; let him not pray, as he is to pray at other times; let him pray more seriously, more humbly, more earnestly, more constantly. <hi>O Lord, in trouble they have visited thee, they have poured forth a prayer, when thy chastening was upon them</hi>
+               <note n="g" place="margin">Isa. 26.16.</note>. They did not <hi>drop,</hi> but <hi>pour</hi> out, and not <hi>prayers,</hi> but a <hi>prayer,</hi> as if their praying were a continual act. <hi>In their affliction they will seek me early
+<note n="h" place="margin">Hos. 5.15.</note>, i.e.</hi> timely, earnestly, diligently, accurately, anxiously, inflamedly.</p>
+            <p>Quest. <hi>But what should Christians under such a sad pro<g ref="char:EOLhyphen"/>vidence thus seek unto God for?</hi>
+            </p>
+            <pb n="17" facs="tcp:40437:11"/>
+            <p> Answ. 1. <hi>For acquaintance with the why of such a Rod</hi>
+               <note n="a" place="margin">Job 10.2.</note>: This none but God can teach. It is his <hi>Messenger,</hi> and comes on his <hi>errand.</hi> If a King sendeth a Messenger to us, we are restless till we know the end of his Message: many times the ignorance of the cause of an affliction doth more afflict, than the affliction it self. 2. <hi>For a blessing upon the Rod,</hi> that like <hi>Aarons</hi> rod it may bud and blossom. The <hi>Rod</hi> is an <hi>Ordinance</hi> as well as the <hi>Word. Good</hi> by any Rod comes not from the <hi>rod it self,</hi> but the <hi>God of the rod,</hi> who onely can make <hi>corrections, instructions,</hi> and therefore to be thus sought from God onely. 3. <hi>For preservation from the sins that such a rod doth</hi> (without Gods blessing) <hi>in an especial manner expose souls to:</hi> such as fretfulness, risings of heart in way of revenge against the instruments, distrust of God, sinking despondencies, and heartlesness to the work of God in private. 4. <hi>For the supplying of the want of publick teaching with the teachings of his spirit, and of other company with his own company. 5. To acquit God from dealing hardly with his people notwithstanding,</hi> and to acknowledg that yet God is, not onely <hi>righteous,</hi> but <hi>good</hi> unto <hi>Israel. 6. For guidance and directions how to manage aright those graces, that are most seasonable under such a rod;</hi> which cannot be without wisdom from above
+<note n="b" place="margin">Jam. 1.5.</note>. 7. and lastly, <hi>For the removing of the rod,</hi> which is a Mes<g ref="char:EOLhyphen"/>senger sent by God, and will not away, till that God that gave a commission both for its coming, and stay, biddeth it be gone. <hi>It is one of the worst frames to pray earnestly for pardon of sin, while we desire to live in it; and it is one of the best frames to pray earnestly for the removal of the cross, and to be willing to bear it as long as the Lord pleaseth.</hi> So much for the 6th. sort of insensible souls under such a judg<g ref="char:EOLhyphen"/>ment, <hi>viz.</hi> such as are not <hi>oftner</hi> and more <hi>fervent</hi> in prayer for <hi>Zion</hi> after such a stroak, then they were before; such as do not go the oftner, and the more importunately to the <hi>Fountain</hi> when the <hi>streams</hi> are cut off; such as do not cry out with <hi>David, Help Lord, for the godly man ceaseth,
+<note place="margin">Psal. 12.<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <pb n="18" facs="tcp:40437:12"/>the faithful sail from among the children of men.</hi>
+            </p>
+            <p n="7">7. And lastly, Such as do not <hi>live better</hi> than ever. Certainly such a Rod is sent for the <hi>bettering</hi> of peoples <hi>lives,</hi> as well as of their <hi>prayers.</hi>
+            </p>
+            <p>Quest. <hi>Wherein?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 1. That they may live more <hi>mercifully</hi>
+               <note n="a" place="margin">Hand ignara mali miseris succurrere disco. <hi>Virg.</hi>
+               </note>. At such a time they have more objects of mercy, and those not ordinary objects. 2. That they may live more <hi>thankfully. In those dayes the word of the Lord was precious</hi>
+               <note n="b" place="margin">1 Sam 3 1.</note>. What dayes were those? It followeth: <hi>There was no open Vision.</hi> Word, and Prophets <hi>were precious</hi> when they <hi>were not</hi>
+               <note n="c" place="margin">Carendo po<g ref="char:EOLhyphen"/>tius quam fru<g ref="char:EOLhyphen"/>endo. <hi>&amp;c. Sen. Ep.</hi>
+               </note>. 3. That they may live more <hi>self-denyingly.</hi> At such a time they must more then ordinarily deny their own ease, name, liberty, livelihood, &amp;c. if they will enjoy the Word. 4. That
+<note n="d" place="margin">Deut. 8.2.</note> they may live more <hi>humbly.</hi> Then they have an opportu<g ref="char:EOLhyphen"/>nitie of knowing more of their own hearts, of the weak<g ref="char:EOLhyphen"/>ness of their graces, of the strength of their corruptions, &amp;c. which is of great use to humble them, to lay them even in the dust. 5. That they may live more <hi>with God,</hi> even (in a sense) in immediate communion with God, the less me<g ref="char:EOLhyphen"/>diate communion they can have. 6. and lastlie, That they may live more <hi>upon God.</hi> Such a dispensation gives faith, as well as patience, its perfect work: Of such a time it is said, <hi>Here is the faith, and the patience of the Saints</hi>
+               <note n="e" place="margin">Rev. 13.10.</note>. Those are the purest acts of faith which the soul puts forth in the dark
+<note n="f" place="margin">Isa. 50.10.</note>. The perfect work of Faith is to believe in God, when the soul hath nothing to stay it self upon, but God. He dies oft, whose life is bound up in any dying creatures: He onely lives an unchangeable life, that by faith lives upon an unchangeable God. If souls be not thus bettered in their lives, the rod is lost on them. Now to all these this Do<g ref="char:EOLhyphen"/>ctrine sends two very sad Messages. It assures them,
+<list>
+                  <item>1. <hi>Their wickedness is very great.</hi>
+                  </item>
+                  <item>2. <hi>Their condition is very bad.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Their wickedness is very great.</hi> It is a <hi>great</hi> sin not to lay to heart God's taking away any one gracious man
+<pb n="19" facs="tcp:40437:12"/>or woman; it is a <hi>greater</hi> not to lay to heart Gods taking away any one faithful Minister; it is <hi>much greater</hi> not to lay to heart Gods taking away many faithful Ministers: it is <hi>yet worse</hi> not to lay to heart their taking away in their prime, in the time of improvement; not to lay to heart the going down of the Sun even in the morning: it is <hi>yet worse</hi> not to lay to heart their taking away in such times, wherein there is most need and use of them to prevent the Apostacie of people, and the spreading of superstition, error, and prophaneness. What is it then not to lay to heart their taking away in such times, if our own faithful Ministers be among those whom God so takes away; This wickedness argues want of love. 1. <hi>To Christs faithful Ministers.</hi> Doth the <hi>Woman</hi> love her <hi>Husband,</hi> the <hi>Child</hi> his <hi>Father,</hi> that is not grieved at parting? And doth he love Christ himself, that loves not his faithful Ministers? 2. To their own souls: <hi>He that thus sinneth against Christ</hi> in his Mini<g ref="char:EOLhyphen"/>stry, <hi>hateth his own soul, and loves death</hi>
+               <note n="a" place="margin">Prov. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.36.</note> 3. <hi>To the land of their nativity,</hi> which is as <hi>Sampson</hi> with his <hi>locks cut,</hi> when Gods faithful Ministers have their <hi>mouthes stopt. Hippo</hi> and <hi>Heidelberg</hi> were soon tumbled into their Graves, after the removal of their Ministers.</p>
+            <p n="2">2. <hi>Their condition is very bad.</hi> Hereby it is evident, that they are none of God's <hi>Elisha's. Elisha</hi> signifies (as I have hinted already) <hi>saved by God.</hi> Souls insensible of the loss of God's <hi>Elijah's</hi> are none of Gods <hi>saved ones:</hi> They are not saved from the guilt and dominion of sin, and from wrath to come; and if they be none of God's <hi>saved ones,</hi> they will undoubtedlie (unless repentance prevent) be some of the <hi>damned ones.</hi> Profane and reprobate <hi>Esaus</hi>
+               <note n="b" place="margin">Gen. 25.3<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> onelie sin away soul-mercies, and continue eating and drinking, and slighting what is done. But so much for the usefulness of this Doctrine, as it is a <hi>Bill of Indictment.</hi>
+            </p>
+            <p>
+               <hi>Use</hi> 2. This Doctrine is also <hi>a loud call from Heaven</hi> to mourning and lamentation, and that both from,
+<list>
+                  <pb n="20" facs="tcp:40437:13"/>
+                  <item>1. <hi>God's Elisha's,</hi> and</item>
+                  <item>2. <hi>God's Elijah's.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>This Doctrine is a Call from Heaven to Gods's Eli<g ref="char:EOLhyphen"/>sha's to mourn and lament, when God takes away any of his Elijah's by a civil death.</hi> I have already shewed that such as are indeed end in truth God's <hi>Elisha's,</hi> they will mourn and lament at such a time: I shall now shew <hi>that</hi> they ought so to do, and <hi>why?</hi>
+            </p>
+            <p n="1">1 That God's <hi>Elisha's</hi> ought to mourn and lament when<g ref="char:EOLhyphen"/>ever God suffers his <hi>Elijah's</hi> to be silenced. And here I shall answer two questions,
+<list>
+                  <item>1. What ought to be the <hi>extent?</hi>
+                  </item>
+                  <item>2. What ought to be the <hi>limitations</hi> of their grief and sorrow?</item>
+               </list>
+            </p>
+            <p>Quest. <hi>What ought to be the extent of God's</hi> Elisha<hi>'s grief and sorrow, when God takes away his</hi> Elijah<hi>'s by a civil death?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 1. <hi>Their sorrow should seize upon their hearts.</hi> Their grief should be <hi>sorrow of heart,</hi> as <hi>Nehemiah's</hi> was
+<note n="a" place="margin">Nehem. 2.2.</note>. <hi>Their bowels, their bowels should be troubled, they should be pained to the heart</hi>
+               <note n="b" place="margin">Jer. 41.5, 6.</note>, as Christ's was, when he beheld the shepherdless people
+<note n="c" place="margin">Matth. 9.36.</note>. Their very <hi>hearts</hi> should even be <hi>broken,</hi> as in all probability <hi>Eli's</hi> was (even whilest his <hi>neck</hi> was <hi>unbroken</hi>) at the tidings of the <hi>Arks</hi> being <hi>ta<g ref="char:EOLhyphen"/>ken</hi>
+               <note n="d" place="margin">1 Sam. 4.18.</note>. Their sorrow should be <hi>serious</hi> and <hi>sincere,</hi> mourn<g ref="char:EOLhyphen"/>ing more for their souls loss hereby, then for any loss of <hi>their</hi> outward man, or of <hi>theirs:</hi> Their grief should not be in <hi>pangs</hi> onely, but <hi>habitual.</hi> They should be in a mourn<g ref="char:EOLhyphen"/>ing frame continually, and the <hi>longer</hi> the cause of their for<g ref="char:EOLhyphen"/>row continues, the <hi>deeper</hi> impressions should be made upon their hearts. The loss of faithful Ministers is like the loss of a good Husband, or of a good Wife, <hi>least at first: Pas<g ref="char:EOLhyphen"/>sionate</hi> sorrow may be working most at <hi>first,</hi> but <hi>rational</hi> sorrow most <hi>afterwards.</hi> The longer God's <hi>Elijah's</hi> are under the loss, the deeper resentment they should have thereof.</p>
+            <pb n="21" facs="tcp:40437:13"/>
+            <p> Answ. 2. <hi>Their sorrow should reach their outward man.</hi> The grief of their hearts should be outwardly exprest
+<note n="a" place="margin">See <hi>Engl. Re<g ref="char:EOLhyphen"/>membrancer,</hi> p. 431, &amp;c.</note>.</p>
+            <p n="1">1. <hi>In tears.</hi> Hearty <hi>mourners</hi> must, yea will, be <hi>weep<g ref="char:EOLhyphen"/>ers.</hi> There are two sorts of tears required of God's <hi>Elisha's,</hi> one of <hi>Compassion,</hi> the other of <hi>Humiliation;</hi> the former for the <hi>miseries</hi> both of God's <hi>Elijah's,</hi> and of God's <hi>Eli<g ref="char:EOLhyphen"/>sha's;</hi> the later for the <hi>sins</hi> that brought those miseries. These <hi>tears</hi> must <hi>spring</hi> from a <hi>broken</hi> heart, as <hi>Josiah's</hi> did
+<note n="b" place="margin">2 Chron. 34, 27.</note>; All other tears are like water from a <hi>dead pit</hi> that is <hi>drawn forth</hi> with engins, not like water from a <hi>living fountain,</hi> that <hi>flows</hi> naturally. Thus all God's <hi>Elisha's</hi> should la<g ref="char:EOLhyphen"/>bour to express the grief of their hearts, but this they do not all attain to: with some, <hi>tears</hi> are <hi>scarce,</hi> though <hi>groans</hi> are <hi>plentiful.</hi> Such have a <hi>rational</hi> sorrow, though not a <hi>pas<g ref="char:EOLhyphen"/>sionate</hi> sorrow; such have the inward tears (as <hi>Austin</hi> calls sighs) though not the outward tears.</p>
+            <p n="2">2. <hi>In taking none ore little comfort in any worldly com<g ref="char:EOLhyphen"/>fort, so long as the cause of sorrow continueth.</hi> God's <hi>Eli<g ref="char:EOLhyphen"/>sha's</hi> should be like the wife of <hi>Phinehas,</hi> who set not her heart on the tidings of a male-child, wen the Ark was ta<g ref="char:EOLhyphen"/>ken
+<note n="e" place="margin">1 Sam. 4.21, 22.</note>, Alas! what joy can God<hi>'s Elisha's</hi> take in children, when they suspect whether they shall leave them a Gospel or no? They may write (saith one) <hi>Ichabed</hi> upon the children born in their houses in the time, when God seems to be breaking up house among them.</p>
+            <p n="3">3. <hi>In earnestly desiring the removal of such a judgment.</hi> One of the daughters of godly sorrow is vehement desire. <hi>Behold this self same thing that ye sorrowed after a godly manner, and what vehement desire it wrought in you</hi>
+               <note n="d" place="margin">2 Cor. 7.11.</note>? No mercy on this side Christ, and grace should be more planted after by God's <hi>Elisha's</hi> at such a time, then the restoring of Gods faithful Ministers to their Congregations, and the un<g ref="char:EOLhyphen"/>stopping of their mouthes in a lawful way.</p>
+            <p n="4">4. In <hi>crying mightily unto God for the removal of this judgment.</hi> They should be like <hi>David</hi>
+               <note n="c" place="margin">Psal. 61.3, 2.</note>, who did not onely <hi>thirst,</hi> and <hi>long to see Gods power and glory, as he
+<pb n="22" facs="tcp:40437:14"/>had seen him in the sanctuary,</hi> but saith, <hi>this will I seek after</hi>
+               <note n="a" place="margin">Psal. 27.4.</note>.</p>
+            <p n="5">5. <hi>In adding fasting unto praying; especially in ma<g ref="char:EOLhyphen"/>king the dayes on which such a calamity doth befal them, Fasting dayes, if not together, yet asunder.</hi> The last of the fifth month, which <hi>Israel</hi> kept was for the burning of the Temple
+<note n="b" place="margin">Compare <hi>Zech.</hi> 7.3. with <hi>Jer.</hi> 52.12.</note>. If ever the Sons of <hi>Levi</hi> weep apart, and their wives apart, it should be at such a time
+<note n="c" place="margin">Zech. 12.12, 13, 14.</note>.</p>
+            <p n="6">6. and lastly, <hi>In adding reformation unto all. Humi<g ref="char:EOLhyphen"/>liation</hi> without <hi>reformation</hi> is like the Word of God in the <hi>letter,</hi> which <hi>kills</hi> and not <hi>quickens,</hi> which <hi>accents</hi> sin, and not <hi>lessons</hi> it, which <hi>continues</hi> judgment, and not <hi>removes</hi> it. It is not enough for God's <hi>Elisha's</hi> to be troubled for the silencing of God's <hi>Elijah's;</hi> but when God's <hi>Elijah's</hi> are silenced, they must be up and doing the more in private. When <hi>Israel</hi> wanted their <hi>Smiths,</hi> they must then with more diligence use their <hi>Files.</hi> They should improve every occasional visit for soul-advantage, and turn <hi>civil converts</hi> into <hi>Christian communion,</hi> as the Disciples did upon the loss of their Master
+<note n="d" place="margin">Luke 24.17.</note>. When they meet, they should be loth to part without praying together, though they be but two or three. The joint prayer of so few hath a special promise of audience
+<note n="e" place="margin">Matth. 18, 19.</note>. They should be much at <hi>home</hi>
+               <note n="f" place="margin">Psal. 4.4. Lam. 3.40.</note>, communing with their own hearts, and examining themselves, and much in the <hi>closet,</hi> both in prayer, and reading, and meditating upon what they read. Yea, such <hi>Elisha's</hi> as are Parents, and Masters of Families should be instead of <hi>Elijah's</hi> to their children and servants, not forgetting their neighbours souls. In a word, in all private duties they should avoid what they mislike in the publick worship at such a time, <hi>viz.</hi> formality, driness, dulness, straitness, saplesness, <hi>&amp;c.</hi> as being <hi>double</hi> sins both against the <hi>precept</hi> of God, and against the <hi>Providence</hi> of God. But so much for answer to the first Question, The second is,</p>
+            <p>Quest. 2. <hi>What limitations of the grief and sorrow of God's Elisha's at such a time are to be observed?</hi>
+            </p>
+            <pb n="23" facs="tcp:40437:14"/>
+            <p>
+               <hi>Answ.</hi> 1. They should <hi>mourn</hi> but not <hi>murmur;</hi> they should <hi>smite upon their own things,</hi> but not <hi>blame Pro<g ref="char:EOLhyphen"/>vidence: Misery</hi> is an excuse for <hi>Passion; the greatness of sufferings</hi> gives no allowance to the <hi>exorbitances of Pas<g ref="char:EOLhyphen"/>sion.</hi> In <hi>the very place of Dragons</hi> there is somewhat to check <hi>murmuring.</hi> Let God's <hi>Elisha's</hi> take heed of enter<g ref="char:EOLhyphen"/>taining one hard thought of God. <hi>Yet God is good to Is<g ref="char:EOLhyphen"/>rael</hi>
+               <note n="a" place="margin">Psal. 75.1.</note>.</p>
+            <p n="2">2. They should <hi>mourn,</hi> but not <hi>revenge.</hi> Revenge is so sweet a sin to corrupted nature, that some have found more sweetness in it then in life it self
+<note n="b" place="margin">At vindicta bonum vitâ ju<g ref="char:EOLhyphen"/>cundiùs ipsâ.</note>; but the Apostolical rule is
+<note n="c" place="margin">Rom. 12.17, 19.</note>, <hi>Recompence to no man evil for evil:</hi> and again, <hi>Dearly beloved, avenge not your selves, but rather give place unto wrath:</hi> Not to our own, for then we <hi>give place to the De<g ref="char:EOLhyphen"/>vil</hi>
+               <note n="d" place="margin">Eph. 4.26.17.</note>; but either to the wrath of your enemies, or to the wrath of God, as it followeth; <hi>For it is written, Vengeance is mine, I will repay, saith the Lord, q.d.</hi> If you take upon you to avenge your selves, you take Gods work out of his hands. Let God's <hi>Elisha's</hi> therefore look at God in such a Providence. Man onely seen in it will breed wrath, indig<g ref="char:EOLhyphen"/>nation, and revenge; but when God is seen in it, that will breed humiliation.</p>
+            <p n="3">3. They should <hi>mourn,</hi> but <hi>not unto themselves</hi>
+               <note n="e" place="margin">Zach. 73.5.</note>. Their outward losses may help to <hi>raise</hi> the waters, but they must take heed they be not the <hi>head and spring.</hi> In such occa<g ref="char:EOLhyphen"/>sions of sorrow, they should be sure to fall upon sin, their own iniquity rather then the wickedness of those that silence such Ministers.</p>
+            <p n="4">4. and lastly, They should <hi>mourn,</hi> but should not be <hi>cast down: Why art thou cast down O my soul</hi>
+               <note n="f" place="margin">Psal. 42.11.-43.5.</note>? The question puts it out of all question, that there never is any good rea<g ref="char:EOLhyphen"/>son why Saints should be cast down. Even in such occa<g ref="char:EOLhyphen"/>sions of sorrow, they should not mourn (as one saith well
+<note n="g" place="margin">Eng. Rhem. <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 472.473.</note>) as those that are without <hi>present stayes,</hi> and <hi>future hopes.</hi> Though at such a time there is a great alteration as to the <hi>means</hi> of grace, there is no change in the <hi>covenant</hi> of grace.
+<pb n="24" facs="tcp:40437:15"/>Their <hi>Teacher</hi> is <hi>where he was,</hi> though their <hi>teachers</hi> be <hi>removed.</hi> It is he that taught them <hi>by</hi> their teachers, and he can teach them <hi>without</hi> them. Formerly they had cause to <hi>magnifie</hi> him, because he did all by the instru<g ref="char:EOLhyphen"/>ments; and then they have to <hi>omnifie</hi> him, that can be unto them instead of all instruments. Even all that they have lost may be found in that one title of Christ, <hi>The great Shepherd of the sheep</hi>
+               <note n="a" place="margin">Heb. 13.10.</note>. They may find a <hi>Temple</hi> in the <hi>Lamb
+<note n="b" place="margin">Rev. 21.22.</note>; I will be as a little Sanctuary
+<note n="c" place="margin">Ezek. 11.16.</note>, i.e.</hi> I will be instead of your City-walls, and your Temple pri<g ref="char:EOLhyphen"/>viledges. Though at such a time Christs faithful Mini<g ref="char:EOLhyphen"/>sters be as dry bones, yet the Prophet <hi>Ezekiel</hi>
+               <note n="d" place="margin">Ezek. 37.3.11, 12.</note> dare not conclude against dry bones living. When Gods witnesses are slain, they are not naturally dead, and there will be a Resurrection of them. Thus you see <hi>how</hi> God's <hi>Elisha's</hi> are to mourn at such a time. I come now to shew,</p>
+            <p n="2">2. <hi>Why</hi> they are then thus to mourn; and here I shall give God's <hi>Elisha's</hi> some motives to stir them up unto their duty, taken from the <hi>evil</hi> of not mourning thus, and from the <hi>good</hi> of thus mourning.</p>
+            <p n="1">1. From the <hi>evil</hi> of not mourning thus; It is a bad <hi>sign,</hi> and a bad <hi>cause.</hi>
+            </p>
+            <p n="1">1. <hi>It is a bad sign.</hi> It signifies 1. That their affe<g ref="char:EOLhyphen"/>ctions towards their <hi>Elijah's,</hi> whilest their mouths were opened, were either not <hi>true,</hi> or very <hi>weak.</hi> How should one measure the <hi>degree</hi> or <hi>truth</hi> of our <hi>affections,</hi> but by the <hi>strength</hi> or <hi>truth</hi> of our <hi>afflictions</hi> in the re<g ref="char:EOLhyphen"/>moval of what we pretend to affect. 2. That the re<g ref="char:EOLhyphen"/>surrection of such <hi>Elijah's</hi> will not be in much mercy to such <hi>Elisha's.</hi> The <hi>word</hi> restored to <hi>unhumbled hearts</hi> is as <hi>seed</hi> cast upon <hi>unbroken ground;</hi> it is <hi>thrown away,</hi> and not <hi>sown</hi>
+               <note n="e" place="margin">Ier. 4.3.</note>.</p>
+            <p n="2">2. <hi>It is a bad cause;</hi> some dreadfull outward, if not spiritual judgment is its certain effect. Those that are <hi>at ease in Zion, that are not grieved for the affliction
+<pb n="25" facs="tcp:40437:15"/>of Joseph,</hi> that are not sick at heart (as the words signifies) for the sufferings of God's <hi>Israel, shall go captive with the first that go captive</hi>
+               <note n="a" place="margin">See <hi>Trap</hi> upon <hi>Amn.</hi> 6.6, 7.</note>: in the Hebrew it is, they shall be in the head of those that go captive. But so much for pre<g ref="char:EOLhyphen"/>sent of the motives taken from the <hi>evil</hi> of not mourning; the second head of motives is taken,</p>
+            <p>From the <hi>good</hi> of thus mourning; It is both a good <hi>evidence,</hi> and a good cause.</p>
+            <p n="1">1. <hi>It is a good evidence.</hi> It evidenceth, That such are real <hi>members</hi> of Christs mystical <hi>body.</hi> A Christians, a right Christians <hi>face</hi> may be seen in these <hi>waters</hi> of sorrow. Such are <hi>Elisha's. I will gather them that are sorrowful for the solemn Assemblies which are of thee</hi>
+               <note n="b" place="margin">Zeph. 1.18. Hi sunt tuiveri (O Ecclesia) &amp; germani partus. <hi>Jun.</hi>
+               </note>.</p>
+            <p n="2">2. <hi>It is a good cause:</hi> for God is engaged <hi>to ga<g ref="char:EOLhyphen"/>ther such.</hi> The reverend Author of that excellent Sermon on <hi>Zeph.</hi> 3.18. in Engl. Remembr. <hi>p.</hi> 449, 450. observes very much to be contained in that promise, <hi>viz. Preservation</hi> in dispersions; <hi>restauration</hi> after their dis<g ref="char:EOLhyphen"/>persions; that they shall meet in their <hi>own places</hi> again, <hi>Neh.</hi> 1.9. <hi>Isa.</hi> 43.5, 6. <hi>Jer.</hi> 51.10, 11. Yea, in their <hi>so<g ref="char:EOLhyphen"/>lemn assemblies</hi> again, <hi>Jer.</hi> 23.4. <hi>Ezek.</hi> 34.12, 13, 14. <hi>Psal.</hi> 147.2. Yea, <hi>restitution</hi> for the losses of their mercies, <hi>Ezek.</hi> 36.11. there shall be more <hi>purity</hi> of Or<g ref="char:EOLhyphen"/>dinances then formerly, <hi>Ezek.</hi> 36.11.-11.16, 17, 18. more <hi>glory,</hi> Hag. 2.7, 9. more <hi>power</hi> and <hi>efficacy,</hi> Mic. 4.6, 7. more <hi>condescention,</hi> and larger testimonies of ac<g ref="char:EOLhyphen"/>ceptation, <hi>Ezek.</hi> 20.40, 41.-39.29. more <hi>unity,</hi> Ezek. 37, 21, 22.-11.19. <hi>Jer.</hi> 32.37, 38, 39. more <hi>secu<g ref="char:EOLhyphen"/>rity,</hi> Ezek. 34.27. and more <hi>honour,</hi> and <hi>reputation, Zeph.</hi> 3.19, 20. <hi>Isa.</hi> 61.7. What can be said more? And now shall none of these considerations (though they be but few of what might be urged
+<note n="e" place="margin">See <hi>Engl. Re<g ref="char:EOLhyphen"/>memb.</hi> p. 457. to 462.</note>) prevail with God's <hi>Elisha's</hi> to lay to heart such a sad providence, when God suffers his <hi>lights</hi> to be put under <hi>Bushels;</hi>
+               <pb n="26" facs="tcp:40437:16"/>his <hi>stars</hi> to be removed from their <hi>Orbs</hi>
+               <note n="a" place="margin">Some have thought it more eligible to lose the <hi>Sun</hi> then such <hi>stars.</hi>
+               </note>; the <hi>eyes</hi> of oewildred souls to be <hi>put out?</hi> God forbid: sure, when <hi>they</hi> cannot hear the <hi>joyful sound,</hi> both <hi>God</hi> and <hi>man</hi> should hear their <hi>sorrowful sighs and groans.</hi> They know little of the reality of spiritual relations, whose hearts are not touched with the sense of spiritual breaches. Are God's <hi>Elisha's</hi> Fathers dead? Is <hi>Israels</hi> best munition de<g ref="char:EOLhyphen"/>parted? and shall not they cry out, <hi>O our Fathers, our Fathers! the Chariots of Israel, and the Horsemen thereof!</hi>
+            </p>
+            <p>Quest. <hi>But how may God's</hi> Elisha's <hi>get and encrease this frame of spirit at such a time?</hi>
+            </p>
+            <p>Answ. 1. <hi>Let them set before their eyes God's mourners as patterns for their imitation.</hi> Man is a <hi>ductile</hi> crea<g ref="char:EOLhyphen"/>ture, more apt to be led by the <hi>eye,</hi> then the <hi>ear.</hi> The ancient Saints are called <hi>a cloud of witnesses</hi>
+               <note n="b" place="margin">Heb. 12.1.</note>. A <hi>Cloud,</hi> because there is a leading vertue in their examples. <hi>Call for the mourning women, and let them touch you lamenta<g ref="char:EOLhyphen"/>tion</hi>
+               <note n="c" place="margin">Jer. 9.17, 20.</note>.</p>
+            <p>Answ. 2. <hi>Let them go about such a loss, and cast up what it comes to.</hi> If they <hi>disect</hi> it, they will find it a <hi>bigbellied</hi> evil. One calls it a whip of many cords, where<g ref="char:EOLhyphen"/>with God's <hi>Elijah's</hi> are whipped out of the Temple. O that God's <hi>Elisha's</hi> at such a time would scourge them<g ref="char:EOLhyphen"/>selves with the considerations that offer themselves to them, when they sit down to tell the aggravations and height<g ref="char:EOLhyphen"/>ning circumstances of their misery. Let them think parti<g ref="char:EOLhyphen"/>cularly
+<note n="d" place="margin">Singularia pun<g ref="char:EOLhyphen"/>gunt.</note> of the <hi>nature, degree, cause, time, concomitants,</hi> and <hi>consequents</hi> of such a judgment. For the <hi>nature</hi> of it, it is a <hi>spiritual</hi> loss; the great loss is unto souls: and it is a <hi>common</hi> loss; the <hi>Ministers</hi> of the Word are set out by <hi>common</hi> blessings, as <hi>light, salt, harvest men, bread,</hi> &amp;c.
+<pb n="27" facs="tcp:40437:16"/>The removal therefore of such is a <hi>common</hi> mischief. For the <hi>degree,</hi> it is to be considered whether <hi>one Elijah</hi> be taken away, or <hi>more then one;</hi> whether <hi>few,</hi> or <hi>many,</hi> whe<g ref="char:EOLhyphen"/>ther <hi>some</hi> or <hi>all?</hi> For the <hi>cause;</hi> the affliction is a <hi>great</hi> evil <hi>in it self,</hi> but <hi>greater</hi> in its <hi>cause.</hi> It argues that the <hi>greatest</hi> evil, sin, is in that people from whom God takes away his <hi>Elijah's;</hi> yea, that sin abounds there
+<note n="a" place="margin">Lam. 5.16.</note>. For the <hi>time</hi> is to be minded, whether this judgment falls upon them when <hi>Popish, Socinian,</hi> and <hi>Arminian er<g ref="char:EOLhyphen"/>rors,</hi> and all manner of <hi>looseness</hi> and <hi>debauchery</hi> are com<g ref="char:EOLhyphen"/>ing in as a <hi>flond?</hi> For the <hi>concomitants; When the shepherds are smitten, the sheep are scattered:</hi> and what will the scattered sheep do? What will the <hi>coals</hi> do when they are pulled one from another? When God takes away his faithfull Ministers from a people, he takes away from them the <hi>life</hi> of their <hi>lives,</hi> the <hi>com<g ref="char:EOLhyphen"/>fort</hi> of all their <hi>enjoyments;</hi> for when the <hi>Ministry</hi> is sent <hi>packing, God</hi> himself is sent <hi>packing;</hi> yea, when Gods faithful Ministers are silenced, people cannot wor<g ref="char:EOLhyphen"/>ship God <hi>publickly,</hi> nor enjoy Gods Ordinances long in <hi>private.</hi> Now not onely God himself, but his Ordi<g ref="char:EOLhyphen"/>nances are our life. Some
+<note n="b" place="margin">
+                  <hi>V. Moller.</hi> in Psal. 27.13.</note> think the land of <hi>Canaan</hi> is in an especial manner called <hi>the land of the living,</hi> in respect of the Ordinances. In a word, reproach is ano<g ref="char:EOLhyphen"/>ther attendant of this affliction; then <hi>Israel</hi> is a deri<g ref="char:EOLhyphen"/>sion to <hi>Moab,</hi> and they even skip for joy
+<note n="c" place="margin">Jer. 48.26.</note>. And should not God's <hi>Elisha's weep,</hi> when they have brought themselves into such a condition, as makes their ene<g ref="char:EOLhyphen"/>mies <hi>laugh</hi>
+               <note n="d" place="margin">Lam. 3.60, 61, 62. Neh. 1.4.-4 4. Psal 42 3.-10.-69.19.80.5.6.-89.50, 51.-123.3, 4. Isa. 52.5. Ezek 35.12, 13.</note>. Lastly, for the <hi>consequents</hi> of such a judg<g ref="char:EOLhyphen"/>ment; certainly such an extraordinary judgment (as an ex<g ref="char:EOLhyphen"/>traordinary <hi>ecclipse</hi>) is very <hi>ominous:</hi> it prognosticks sadly, as if Gods work were done as to treating with many souls
+<note n="e" place="margin">Hos 4.<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note> as if God would take no farther care of his Vineyard
+<note n="f" place="margin">Isa. 5.5, 6.</note>: as if reformation should end in deforma<g ref="char:EOLhyphen"/>tion: Is it not ominous to have the <hi>Midwives</hi> taken
+<pb n="28" facs="tcp:40437:17"/>away before the Church hath <hi>brought forth?</hi> Yea, it speaks as if the forest judgments were at hand; not onely the worst of outward judgments, sword, famine, and Pestilence, but the worst of spiritual judgments: it speaks a great Apostasie at hand: when the <hi>Standard-bearers</hi> and <hi>leaders</hi> fall, will not the <hi>Soldiers</hi> fly? yea, it speaks as if God would let men be as vile as they will. For God to suffer his faithful Ministers, who teach souls to deny all ungodliness and worldly lusts, and to live godly, righte<g ref="char:EOLhyphen"/>ously and soberly, to be silenced; sounds as much, as <hi>he that will be unjust, let him be unjust still, and he that will be filthy, let him be filthy still.</hi> Let but these con<g ref="char:EOLhyphen"/>siderations be stricken on the heart, as the <hi>rod</hi> was by <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> on the <hi>rock,</hi> and we may well conclude, the <hi>heart</hi> is a <hi>rock</hi> indeed, if it yield no <hi>water.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> 3. and lastly, <hi>Let them be restless after the par<g ref="char:EOLhyphen"/>don of all their iniquities, especially those that have stopt the mouths of God's</hi> Elijah's. God's calls of his <hi>Elisha's</hi> to mourning are very loud; but yet that is not enough, it must be a beam from the Sun of righteousness, that will make even their eyes to run over, and dissolve even their too too hard hearts. <hi>Peter</hi> stirred not at the <hi>Crowing</hi> once and again, until Christ <hi>look'd</hi> upon him, <hi>then he went out and wept bitterly.</hi> Let God's <hi>Eli<g ref="char:EOLhyphen"/>sha's</hi> therefore at such a time beg a gracious look from God, that though he hath his <hi>back</hi> upon them, yet that he would be pleased to <hi>look back</hi> upon them: let them tell the Lord that their hearts are so hard, that all the considerations that aggravate the judgment, are not suffi<g ref="char:EOLhyphen"/>cient to break them: let them take words, and say, Lord, we never thought that our hearts were so hard, and that they had so little love of thy Ordinances, and so little regard of thy concernments; now we see it is not the <hi>weight</hi> of an affliction, but the <hi>working</hi> of thy grace, that
+<pb n="29" facs="tcp:40437:17"/>will humble us? <hi>Lord take away iniquity, and receive us graciously</hi>
+               <note n="a" place="margin">Hos. 14.1,</note>. But so much for the Call from Heaven to God's <hi>Elisha's.</hi>
+            </p>
+            <p n="2">II. <hi>This Doctrine is a call from Heaven to God's</hi> Eli<g ref="char:EOLhyphen"/>jah's, <hi>to mourn and lament, when God suffers them to be si<g ref="char:EOLhyphen"/>lenced.</hi> If God doth at such a time <hi>loudly</hi> call his <hi>Elisha's</hi> to mourn and lament, sure he doth much <hi>more loudly</hi> call his <hi>Elijah's</hi> thereunto. What saith one of them?
+<note n="b" place="margin">v. Eng. Re<g ref="char:EOLhyphen"/>membr. p. 466, 467.</note> If any should be in <hi>sackcloth,</hi> the <hi>witnesses</hi> should. It is said of <hi>Tyrus,</hi> that the chief mourners for her fall, shall be such as handle the <hi>oare. The Mariners and Pilots shall wal<g ref="char:EOLhyphen"/>low themselves in ashes, and cry bitterly; weep with bit<g ref="char:EOLhyphen"/>terness of heart, and with a bitter wailing</hi>
+               <note n="c" place="margin">Ezek. 27.29.</note>. In <hi>Egypts</hi> fall likewise the principal mourners are the <hi>fishermen, they shall mourn, and all that cast angles into the brook, and they that cast nets</hi> shall lament.
+<note n="d" place="margin">Isa. 19.8.</note> Should not <hi>Fishers for mens souls</hi> be principal mourners also under such an hand of God? Who should mourn, as the children of the bride<g ref="char:EOLhyphen"/>chamber, and friends of the bridegroom, <hi>when the Bride<g ref="char:EOLhyphen"/>groom is taken from them</hi>
+               <note n="e" place="margin">Mat. 9.15.</note>? At such a time they have not onely lost their <hi>livelihoods,</hi> but the life of their lives; <hi>their usefulness:</hi> not onely <hi>worship,</hi> but <hi>work;</hi> not onely <hi>means of getting good,</hi> but <hi>opportunities of doing good;</hi> not onely <hi>supplies from</hi> the altar, but the <hi>service</hi> of the altar. To such let the following particulars be hinted from the same <hi>man of God,</hi> and I shall finish this <hi>Call.</hi>
+            </p>
+            <p n="1">1. Surely it is not for nothing that they are turned under the wheel.</p>
+            <p n="2">2. It may be some of their hearts upbraid them for their careless entrance into their work, and their unfaithful ma<g ref="char:EOLhyphen"/>nagement of it.</p>
+            <p n="3">3. It may be some of them are possest with so dumb a Devil, that when they are off the stage, and stated Pulpit<g ref="char:EOLhyphen"/>work, they shall do little in occasional work, <hi>viz.</hi> Preach<g ref="char:EOLhyphen"/>ing, Converse, Conversation.</p>
+            <p n="4">
+               <pb n="30" facs="tcp:40437:18"/> 4. It may be some have cause to fear least the Lords for<g ref="char:EOLhyphen"/>saking of them should be joined with mans rejection; it may be some find deadnings, witherings, decayings, a se<g ref="char:EOLhyphen"/>cret gladness of such ease, and not missing their work, <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. It may be some have much ado to keep down pride under the self-denial they are called to exercise.</p>
+            <p n="6">6. It may be some of them find preaching of faith one thing, and living by it, another. Surely at such a time not onely all God's <hi>Elisha's,</hi> but all God's <hi>Elijah's</hi> should cry out
+<note n="a" place="margin">Lam. 5.21.</note>, <hi>Turn thou us unto thee, O Lord, and we shall be turned. Renew our dayes as of old.</hi> Amen, Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40437:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
